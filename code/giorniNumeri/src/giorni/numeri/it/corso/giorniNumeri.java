@@ -34,7 +34,7 @@ public class giorniNumeri {
 
 		if (numbers == 1)
 			System.out.println();
-
+		
 	}
 
 }
